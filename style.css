@@ -1,0 +1,49 @@
+.maintext{
+    font-size: 50px;
+}
+#maincontent{
+    background-color: #5465ff;
+    height: 400px;
+    width: fit-content;
+}
+#img{
+    height: 400px;
+     margin-left: 660px; 
+     margin-top: -136px;
+    width: 730px;
+}
+#android{
+    position: relative;
+    bottom: 200px;
+    left: 160px;
+}
+.downloadbutton{
+    
+    height: 60px;
+    border: solid #9BB1ff 2px;
+    border-radius: 10px;
+    background-color: #5465ff;
+    font-weight: 700;
+    font-size: large;
+    color: #E2FDff;
+}
+#computer{
+    position: relative;
+    bottom: 90px;
+    left: -180px;
+}
+.req{
+    font-size: 20px;
+    color: black;
+    font-weight: 700;
+}
+#anreq{
+    position: relative;
+    bottom: 200px;
+    left: 160px;
+}
+#coreq{
+    position: relative;
+    bottom: 120px;
+    left: 260px;
+}
